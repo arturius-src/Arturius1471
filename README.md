@@ -3,7 +3,7 @@
 - 🌱 I’m currently doing python stuff
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me No
-- ⚡ Fun fact: I am da best
+- ⚡ Fun fact: Play my games
 
 <!---
 Arturius1471/Arturius1471 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
